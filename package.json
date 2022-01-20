@@ -1,0 +1,32 @@
+{
+  "name": "@saibotsivad/eslint-config-saibotsivad",
+  "version": "0.0.0",
+  "description": "ESLint and TypeScript configurations that I use across projects I maintain.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/eslint-config-saibotsivad.git"
+  },
+  "author": {
+    "name": "Tobias Davis",
+    "email": "tobias@davistobias.com",
+    "url": "https://davistobias.com"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/eslint-config-saibotsivad/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/eslint-config-saibotsivad",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0"
+  },
+  "peerDependency": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0"
+  }
+}
