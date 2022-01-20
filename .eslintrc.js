@@ -15,6 +15,7 @@ module.exports = {
 	},
 	plugins: [
 		'@typescript-eslint',
+		'svelte3',
 	],
 	ignorePatterns: [
 		// personal testing files
@@ -22,12 +23,17 @@ module.exports = {
 		// globbed (aka auto-generated) files
 		'globbed-*.js',
 	],
-	// At the moment I'm still very new to TS, so I just don't have any styles
-	// applied to TS files, and I let WebStorm handle the auto-formatting for me.
 	overrides: [
+		{
+			files: [ '*.svelte' ],
+			processor: 'svelte3/svelte3',
+		},
+		// At the moment I'm still very new to TS, so I just don't have any styles
+		// applied to TS files, and I let WebStorm handle the auto-formatting for me.
 		{
 			files: [
 				'*.js',
+				'*.svelte',
 			],
 			rules: {
 				'array-bracket-spacing': [
