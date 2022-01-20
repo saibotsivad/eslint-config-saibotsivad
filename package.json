@@ -1,6 +1,6 @@
 {
   "name": "@saibotsivad/eslint-config-saibotsivad",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ESLint and TypeScript configurations that I use across projects I maintain.",
   "main": "index.js",
   "repository": {
