@@ -59,6 +59,13 @@ module.exports = {
 					'error',
 					'always-multiline',
 				],
+				'comma-spacing': [
+					'error',
+					{
+						'before': false,
+						'after': true,
+					},
+				],
 				'eol-last': [
 					'error',
 					'always',

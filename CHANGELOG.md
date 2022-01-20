@@ -16,7 +16,7 @@ Change categories are:
 
 # Changes
 
-## [0.0.1-0.0.3](https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...v0.0.3) - 2022-01-20
+## [0.0.1-0.0.4](https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...v0.0.4) - 2022-01-20
 ### Added
 - Svelte 3 plugin for ESLint.
 ### Fixed
