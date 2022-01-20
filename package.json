@@ -23,10 +23,11 @@
     "@typescript-eslint/parser": "^5.10.0",
     "eslint": "^8.7.0"
   },
-  "peerDependency": {
+  "peerDependencies": {
     "@tsconfig/recommended": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^5.10.0",
+    "eslint-plugin-svelte3": "^3.4.0",
     "eslint": "^8.7.0"
   }
 }

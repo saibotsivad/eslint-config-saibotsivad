@@ -14,17 +14,13 @@ Change categories are:
 * `Fixed` for any bug fixes.
 * `Security` to invite users to upgrade in case of vulnerabilities.
 
-## [Unreleased]
+# Changes
+
+## [0.0.1](https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...v0.0.1) - 2022-01-20
 ### Added
-### Changed
-### Deprecated
-### Fixed
-### Removed
-### Security
+- Svelte 3 plugin for ESLint.
 
 ## [0.0.0](https://github.com/saibotsivad/eslint-config-saibotsivad/tree/v0.0.0) - 2022-01-20
 ### Added
 - Created the base project from [saibotsivad/init](https://github.com/saibotsivad/init) and used [these directions](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p) to init the shareable ESLint config.
 
-[Unreleased]: https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...HEAD
-[0.0.1]: https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...v0.0.1
