@@ -16,9 +16,11 @@ Change categories are:
 
 # Changes
 
-## [0.0.1](https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...v0.0.1) - 2022-01-20
+## [0.0.1-0.0.2](https://github.com/saibotsivad/eslint-config-saibotsivad/compare/v0.0.0...v0.0.2) - 2022-01-20
 ### Added
 - Svelte 3 plugin for ESLint.
+### Fixed
+- Allow strings to use single-quotes or double-quotes so long as the string contains a quote that would have to be escaped otherwise.
 
 ## [0.0.0](https://github.com/saibotsivad/eslint-config-saibotsivad/tree/v0.0.0) - 2022-01-20
 ### Added
