@@ -21,7 +21,7 @@ Add this config as the base:
 ```json
 {
 	"extends": [
-		"eslint-config-saibotsivad"
+		"@saibotsivad/eslint-config-saibotsivad"
 	]
 }
 ```
