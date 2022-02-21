@@ -7,7 +7,7 @@ ESLint and TypeScript configurations that I use across projects I maintain.
 Install the normal way:
 
 ```shell
-npm install --save-dev eslint eslint-config-saibotsivad
+npm install --save-dev eslint @saibotsivad/eslint-config-saibotsivad
 ```
 
 Create an ESLint config file:
