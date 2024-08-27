@@ -1,3 +1,8 @@
+> [!warning]
+> This repository has been deprecated in favor of [@tobiaslabs/eslint-config-javascript](https://github.com/tobiaslabs/eslint-config-javascript), which uses ESLint 9.
+> 
+> No further updates to this repository will be made or accepted.
+
 # eslint-config-saibotsivad
 
 ESLint and TypeScript configurations that I use across projects I maintain.
